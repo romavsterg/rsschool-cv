@@ -5,7 +5,7 @@
 #### Пример кода:
 ```javascript
 const isOdd = (num) => {
-    return num % 2 == 1 ? 'Odd' : 'Even"
+    return num % 2 == 1 ? 'Number is odd' : 'Number is even"
 }
 ```
 #### Образование - среднее незаконченное
